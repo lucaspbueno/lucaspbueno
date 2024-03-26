@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Lucas Parreiras 👋
 
-- 🔭 A procura do meu primeiro *SIM*!!!
 - 🌱 Estudando Back-end
 - 😄 Pronomes: ele/dele
 
