@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Lucas Parreiras 👋
 
 - 🌱 Estudando Back-end
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/lucaspbueno">
