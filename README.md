@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Parreiras 👋
 
-- 🌱 Estudando Back-end
+- 🌱 Desenvolvedor Full-Stack
 
 <div>
   <a href="https://github.com/lucaspbueno">
