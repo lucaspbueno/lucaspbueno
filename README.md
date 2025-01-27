@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-parreiras-romanelli-bueno/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/>
   </a>
 
 ##
