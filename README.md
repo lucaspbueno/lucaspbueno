@@ -2,26 +2,35 @@
 
 - 🌱 Desenvolvedor Full-Stack
 
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div>
   <a href="https://github.com/lucaspbueno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspbueno&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucaspbueno&theme=dark&utcOffset=-3"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaspbueno&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+
+<div>
+  <h2>Stacks</h2>
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=python,nodejs,php,docker,aws,postgres,mysql,mongodb,express,sequelize,flask,selenium,jest,cypress,html,css,javascript,jquery,bootstrap,tailwind,styledcomponents,sass,react,vite,redux,git,github,gitlab,vscode,linux,postman,vercel"
+    /> 
+  </a>
 </div>
   
+<div>
+  <h2>Contatos</h2>
+  <a href="mailto:lucaspbueno22@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-parreiras-romanelli-bueno/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
 ##
-  
-<div> 
-  <a href="mailto:lucaspbueno22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-parreiras-romanelli-bueno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/lucaspbueno/lucaspbueno/blob/output/github-contribution-grid-snake.svg)
 </div>
   
