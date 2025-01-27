@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspbueno&layout=compact&langs_count=16&theme=dark"/>
     
-   | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucaspbueno&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaspbueno&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+   | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucaspbueno&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaspbueno&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
  
 </div>
