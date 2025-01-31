@@ -1,6 +1,11 @@
 ### Olá! Eu sou o Lucas Parreiras 👋
 
 - 🌱 Desenvolvedor Back-end
+- 🚀 Foco em **APIs REST** e **ETL**
+- 🐍 Principais stacks: **Python**, **PHP** e **JavaScript (Node.js)**
+- 🐳 Experiência com **Docker**, **PostgreSQL**, **MongoDB**, **MySQL** e **AWS S3**
+- 📌 **TDD** e **Clean Code** para garantir qualidade e manutenção do código
+- 🛠️ Testes automatizados com **Selenium**, **Jest** e **Cypress**
 
 <div>
   <a href="https://github.com/lucaspbueno">
